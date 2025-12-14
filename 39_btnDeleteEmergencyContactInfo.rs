@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>39_btnDeleteEmergencyContactInfo</name>
+   <tag></tag>
+   <elementGuidId>538904db-6fcb-4d78-a527-af82402d4520</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]/div/div/div[2]/table/tbody/tr/td/table/tbody/tr/td[1]/div/div[2]/table/tbody/tr/td/table/tbody/tr/td[3]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

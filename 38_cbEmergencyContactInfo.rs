@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>38_cbEmergencyContactInfo</name>
+   <tag></tag>
+   <elementGuidId>e9c94f4c-a888-4a0f-b977-b6a66d3a1648</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]/div/div/div[2]/table/tbody/tr/td/table/tbody/tr/td[1]/div/div[2]/div[2]/div[3]/table/tbody[1]/tr['${rowContactInfo}']/td[1]/div/span/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
