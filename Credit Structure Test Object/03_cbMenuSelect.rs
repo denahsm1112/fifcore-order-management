@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>03_cbMenuSelect</name>
+   <tag></tag>
+   <elementGuidId>3b822b9d-b17c-4360-970d-52efada73414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='z-page']/div/div/div[3]/div[3]/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[3]/div[2]/div[3]/div[3]/table/tbody[1]/tr/td/div/table/tbody/tr/td/table/tbody/tr/td[1]/table/tbody/tr/td/table/tbody/tr/td[3]/span/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[@class='z-page']/div/div/div[3]/div[3]/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[3]/div[2]/div[3]/div[3]/table/tbody[1]/tr/td/div/table/tbody/tr/td/table/tbody/tr/td[1]/table/tbody/tr/td/table/tbody/tr/td[3]/span/input</value>
+      <webElementGuid>87230266-7bf2-40e1-88ec-db4b2b4ac2f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

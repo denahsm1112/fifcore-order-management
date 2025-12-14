@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>01_btnEditOrder</name>
+   <tag></tag>
+   <elementGuidId>b72226a0-d2fb-4e33-983c-470ef8e48b2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='z-page']/div/div/div[3]/div[3]/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[3]/div[2]/div[3]/div[3]/table/tbody[1]/tr/td/div/table/tbody/tr/td/table/tbody/tr/td[5]/table/tbody/tr/td/table/tbody/tr/td[5]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[@class='z-page']/div/div/div[3]/div[3]/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[3]/div[2]/div[3]/div[3]/table/tbody[1]/tr/td/div/table/tbody/tr/td/table/tbody/tr/td[5]/table/tbody/tr/td/table/tbody/tr/td[5]/button</value>
+      <webElementGuid>0194abc0-0d38-4fa0-b2e6-7df5d8db0956</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

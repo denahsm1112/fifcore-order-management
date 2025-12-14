@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>06_fldOrderNo</name>
+   <tag></tag>
+   <elementGuidId>82e696d2-12e8-4975-94e6-4910dd4fb7d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name=&quot;txtOrderNumber&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@name=&quot;txtOrderNumber&quot;]</value>
+      <webElementGuid>71ff9279-3eda-4883-b099-af9cdc838e3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
