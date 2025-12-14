@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>com.aiotests.plugin.AIOTestsPlugin</productName>
+      <properties>
+         <entry>
+            <key>aioTests.testsuite.projectKey</key>
+            <value>KAN-1</value>
+         </entry>
+         <entry>
+            <key>aioTests.testsuite.isNewCycle</key>
+            <value>false</value>
+         </entry>
+         <entry>
+            <key>aioTests.testsuite.cycleKey</key>
+            <value>KAN-CY-1</value>
+         </entry>
+         <entry>
+            <key>aioTests.testsuite.createNewRun</key>
+            <value>false</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>2</pageLoadTimeout>
+   <pageLoadTimeoutDefault>false</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>89461631-fad3-44bf-a922-7d19631478a7</testSuiteGuid>
+   <testCaseLink>
+      <guid>f1b5ec7c-e32a-49e2-aa4a-6c6132acd9b8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/debug</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>14caf414-eb6b-496f-ab9d-7f12a697f2ff</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Submit Order NMC/Submit Order NMC</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d9837618-414e-4fef-924a-1f867be2c860</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Submit Order UFI/Submit Order UFI</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4a57b88d-7713-403d-9ddd-3de11eb9b346</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Submit Order UFI - MMQ/Submit Order UFI - MMQ</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

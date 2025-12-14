@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Database Query</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7afbe7ef-faa3-4617-b46b-e933b405a7e5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a806df75-e909-497e-b10c-3e5b429f9e4f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a806df75-e909-497e-b10c-3e5b429f9e4f</id>
+      <masked>false</masked>
+      <name>orderId</name>
+   </variable>
+</TestCaseEntity>

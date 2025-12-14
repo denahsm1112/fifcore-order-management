@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Document Checklist Query</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcc2f3ff-6319-4551-aa6d-bc70e7ecac94</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7701f00a-cfd8-490e-852e-378e4d5220e8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'22324017614'</defaultValue>
+      <description></description>
+      <id>7701f00a-cfd8-490e-852e-378e4d5220e8</id>
+      <masked>false</masked>
+      <name>orderNumber</name>
+   </variable>
+</TestCaseEntity>

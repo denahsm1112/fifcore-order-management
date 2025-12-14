@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>debug</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>com.aiotests.plugin.AIOTestsPlugin</productName>
+      <properties>
+         <entry>
+            <key>aioTests.testcase.id</key>
+            <value>KAN-TC-2</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>1f98acae-7718-4048-83cb-0477dbf9c3fe</testCaseGuid>
+</TestCaseEntity>

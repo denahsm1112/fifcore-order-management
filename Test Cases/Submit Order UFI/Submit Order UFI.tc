@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Submit Order UFI</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>com.aiotests.plugin.AIOTestsPlugin</productName>
+      <properties>
+         <entry>
+            <key>aioTests.testcase.id</key>
+            <value>FFDA-TC-9</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>74c19df0-792f-4ec4-9158-d99230647b63</testCaseGuid>
+</TestCaseEntity>
