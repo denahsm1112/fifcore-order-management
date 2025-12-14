@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>33_btnInvoiceDate</name>
+   <tag></tag>
+   <elementGuidId>ebedc3a4-01e8-428a-9559-835da0a855a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div[1]/div[2]/div[1]/div/div/div/div[1]/div[3]/table/tbody[1]/tr[8]/td[2]/div/span/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

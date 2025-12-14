@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>38_chkWithHieracy</name>
+   <tag></tag>
+   <elementGuidId>8708fde6-6601-4c43-b4f1-69f38bec8b92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div[3]/div[3]/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/table/tbody/tr/td/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr/td[9]/table/tbody/tr/td/table/tbody/tr/td[1]/span[@class='z-checkbox']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

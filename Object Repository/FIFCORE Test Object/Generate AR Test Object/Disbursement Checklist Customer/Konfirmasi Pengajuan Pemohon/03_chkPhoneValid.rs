@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>03_chkPhoneValid</name>
+   <tag></tag>
+   <elementGuidId>0779ed73-c7c5-4f84-b645-101e3cfe6c54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div/div/div[2]/div[2]/div[2]/div/div/div[4]/div[2]/div[12]/div[2]/div/div[3]/table/tbody[1]/tr[4]/td[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

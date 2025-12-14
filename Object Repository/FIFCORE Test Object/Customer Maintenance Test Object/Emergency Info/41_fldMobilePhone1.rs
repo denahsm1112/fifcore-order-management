@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>41_fldMobilePhone1</name>
+   <tag></tag>
+   <elementGuidId>395e8bb7-2485-4083-a987-464cdb5fd7da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[1]/div/div[3]/div[3]/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[8]/div[2]/div[3]/div/div/div[2]/table/tbody/tr/td/table/tbody/tr/td[1]/div/div[2]/div[2]/div[3]/table/tbody[1]/tr[2]/td[3]/div/input[@class='z-textbox']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

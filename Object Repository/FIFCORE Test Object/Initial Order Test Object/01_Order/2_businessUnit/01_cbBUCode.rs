@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>01_cbBUCode</name>
+   <tag></tag>
+   <elementGuidId>7dd30eb3-3359-46b0-a70f-a06b4553b461</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class=&quot;z-label&quot;][./text()='${businessUnit}']/../../../.</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>ee6bf4c6-95a3-40d9-a478-4f188baf052f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

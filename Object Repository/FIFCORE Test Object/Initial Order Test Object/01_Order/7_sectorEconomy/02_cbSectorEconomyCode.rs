@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>02_cbSectorEconomyCode</name>
+   <tag></tag>
+   <elementGuidId>c7cec1b5-c1e4-4364-a9d3-f3c89c75f4d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(text(),'KONSTRUKSI')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[contains(text(),'KONSTRUKSI')]</value>
+      <webElementGuid>60995feb-156b-48af-8c95-14c55bfb885d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

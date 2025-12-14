@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>09_Qs05</name>
+   <tag></tag>
+   <elementGuidId>2e389e16-9716-449d-927d-6370aafcf7ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div/div/div[2]/div[2]/div[2]/div/div/div[4]/div[2]/div[14]/div[2]/div/div[3]/table/tbody[1]/tr[5]/td[1]/div/table/tbody/tr/td/table/tbody/tr/td[3]/span[@class='z-label']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

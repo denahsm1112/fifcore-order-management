@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>03_cbCreditObjCode</name>
+   <tag></tag>
+   <elementGuidId>c403eeb8-d52d-46c0-9dc3-a39799ed8b9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(text(),'INVESTASI')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[contains(text(),'NMC')]</value>
+      <webElementGuid>3a9d1856-0ae4-448a-b174-d3c08c17239d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

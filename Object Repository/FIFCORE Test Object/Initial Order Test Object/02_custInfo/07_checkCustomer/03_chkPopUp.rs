@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>03_chkPopUp</name>
+   <tag></tag>
+   <elementGuidId>3b966e84-15d9-46b0-848a-06a1e3a52a37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(text(),'PASS')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[contains(text(),'Popup')]</value>
+      <webElementGuid>dafdc08f-9116-464e-8a49-1ad08f04a73b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

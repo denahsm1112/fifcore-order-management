@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>03_btnLogout</name>
+   <tag></tag>
+   <elementGuidId>b6103fcd-7f08-4165-8d3d-5caff82b22b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href='/fifcore/processLogout']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@href='/fifcore/processLogout']</value>
+      <webElementGuid>a0f3d92e-86df-45af-a948-03b3d57e9737</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

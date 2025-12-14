@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>02_btnFind</name>
+   <tag></tag>
+   <elementGuidId>c22f6cf4-717a-46ee-b041-89470a223c93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(text(),'Find')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[contains(text(),'Find')]</value>
+      <webElementGuid>26ba3322-803d-4bbc-8372-1b59bbc24f48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

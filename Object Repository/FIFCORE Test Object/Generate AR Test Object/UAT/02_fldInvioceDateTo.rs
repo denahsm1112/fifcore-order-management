@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>02_fldInvioceDateTo</name>
+   <tag></tag>
+   <elementGuidId>a2f507d9-21fa-4620-9f30-8adc3f247ff7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='z-page']//div[1]/div/div[3]/div[3]/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[1]/div[2]/div/div[3]/table/tbody[1]/tr[5]/td[2]/span[4]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

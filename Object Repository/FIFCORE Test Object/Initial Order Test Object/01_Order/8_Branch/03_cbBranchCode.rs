@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>03_cbBranchCode</name>
+   <tag></tag>
+   <elementGuidId>8537caf4-cb32-48f7-ac15-d84f95ae4ae7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(text(),'JAKARTA')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[contains(text(),'JAKARTA')]</value>
+      <webElementGuid>b0d3526a-0f51-47fe-9251-fb7d7dc39a98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

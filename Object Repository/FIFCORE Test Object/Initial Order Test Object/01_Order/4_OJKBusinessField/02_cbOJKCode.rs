@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>02_cbOJKCode</name>
+   <tag></tag>
+   <elementGuidId>10edd18f-07e9-4cd0-a2df-1954d40cd2c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(text(),'002200')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[contains(text(),'002200')]</value>
+      <webElementGuid>bda17910-21b3-4a8a-8011-4e3e2127489d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

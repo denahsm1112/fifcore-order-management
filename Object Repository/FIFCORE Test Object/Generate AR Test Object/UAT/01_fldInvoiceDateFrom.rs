@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>01_fldInvoiceDateFrom</name>
+   <tag></tag>
+   <elementGuidId>681c4eb7-6fee-40e6-a8cf-03f4ac5bc0e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='z-page']//div[1]/div/div[3]/div[3]/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[1]/div[2]/div/div[3]/table/tbody[1]/tr[5]/td[2]/span[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
